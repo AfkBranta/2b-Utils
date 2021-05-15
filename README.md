@@ -1,2 +1,5 @@
 # 2b-Utils
-2b2t Utils to check Queue Lengths and the Players in Queue
+A simple terminal application to check Queue Lengths and the Players in Queue
+
+# Credits
+thank you [Tycrek](https://github.com/tycrek) for creating [2bqueue.info](https://2bqueue.info)
